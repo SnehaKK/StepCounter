@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StepCounterAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="count">Step Count:</string>
+<string name="button_enable_sensors">Enable Sensors</string>
+<string name="button_close">Close App</string><string name="banner_main">Sensor App</string>
+    <string name="banner_desc">The purpose of the App is to work with Android sensors (motion and camera) and enable Camera censors after “n” number of steps.</string>
+    <string name="enter_no_of_steps">Number of Steps: </string>
+    <string name="edit_no_of_steps">05</string>
+</resources>
